@@ -1,1 +1,4 @@
-<h1>Foooterrrr</h1>
+<p>Foooterrrr</p>
+<?php wp_footer(); ?>
+</body>
+</html>
